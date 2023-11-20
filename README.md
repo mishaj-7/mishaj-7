@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm mishaj</h1>
 <h3 align="center">I'm a eager mern stack explorer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishaj-7&label=Profile%20views&color=0e75b6&style=flat" alt="mishaj-7" /> </p>
 
