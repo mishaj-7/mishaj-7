@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **amstig100@gmail.com**
 
-- ⚡ Fun fact **"Launching into a Football Frenzy ⚡🔥 #PremierLeagueExcitement #man_cittiezzhh🔥🚀⚽"**
+- ⚡ Fun fact **i love explore new techs **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
