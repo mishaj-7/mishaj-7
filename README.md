@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm mishaj</h1>
-<h3 align="center">I'm a eager mern stack explorer</h3>
+<h3 align="center">I'm an ardent mern stack explorer</h3>
 <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 <!-- <img align="right" alt="Coding" width="150" src="https://38.media.tumblr.com/888f5999a68400c6594e3bff0b25dc0c/tumblr_nleu3r0bvY1shpedgo1_540.gif"> -->
 
